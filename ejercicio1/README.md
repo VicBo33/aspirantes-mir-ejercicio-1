@@ -1,3 +1,9 @@
+pwd
+mkdir ejericios
+dir
+code .
+
+$dir $ README.md
 git init
 git config --global user.name Victor Botero
 git config --global user.email VictorBotero3323
